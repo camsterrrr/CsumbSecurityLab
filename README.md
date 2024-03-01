@@ -3,9 +3,10 @@
 ## How to use this repo
 
 0. Install Docker (see section)
-1. ./scripts/build
-2. ./scripts/run
-3. ./scripts/build
+1. git clone https://github.com/camsterrrr/CsumbSecurityLab/
+2. ./scripts/build
+3. ./scripts/run
+4. ./scripts/build
 
 ## Install Docker
 
