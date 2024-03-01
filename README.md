@@ -4,9 +4,10 @@
 
 0. Install Docker (see section)
 1. git clone https://github.com/camsterrrr/CsumbSecurityLab/
-2. ./scripts/build
-3. ./scripts/run
-4. ./scripts/build
+2. cd CsumbSecurityLab
+3. ./scripts/build
+4. ./scripts/run
+5. ./scripts/build
 
 ## Install Docker
 
